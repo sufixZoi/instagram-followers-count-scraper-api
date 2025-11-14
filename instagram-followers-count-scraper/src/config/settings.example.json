@@ -1,0 +1,4 @@
+{
+  "useApifyProxy": true,
+  "apifyProxyGroups": ["group1", "group2"]
+}
